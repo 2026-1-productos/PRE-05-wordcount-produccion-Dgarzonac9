@@ -1,0 +1,8 @@
+.github/
+.vscode/
+tests/
+venv/
+README.md
+setup.bat
+setup.sh
+wordcount.ipynb
